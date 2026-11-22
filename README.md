@@ -2,7 +2,7 @@
 
 ![Eulian，坐在黄昏列车窗边的像素旅人](train.png)
 
-我是 Eulian。靠窗还有空位。这趟列车停两站，一站读故事，一站查单词。
+我是 Eulian。靠窗还有空位。
 
 ## Tech Stack
 
