@@ -2,15 +2,8 @@
 
 ![Eulian，坐在黄昏列车窗边的像素旅人](train.png)
 
-我是 Eulian。靠窗还有空位。
+我是 Eulian。靠窗还有空位，要一起出发吗？
 
-## Tech Stack
-
-| 工具与平台 | 我用它做什么 |
-| --- | --- |
-| Android | 把查词、识词和复习放进同一款手机应用。 |
-| Markdown | 整理写作样例，把用词、句式和叙述习惯写成 AI 可以参考的写作指南。 |
-| GitHub Actions | 每天从贡献记录生成页尾的贪吃蛇动画。 |
 
 ## Featured Projects
 
