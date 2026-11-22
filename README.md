@@ -2,7 +2,7 @@
 
 ![Eulian，坐在黄昏列车窗边的像素旅人](train.png)
 
-我是 Eulian。靠窗还有空位，要一起出发吗？
+我是 雨莲。靠窗还有空位，要一起出发吗？
 
 
 ## Featured Projects
