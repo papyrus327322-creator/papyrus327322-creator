@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 58" role="img" aria-labelledby="title">
+  <title id="title">Welcome aboard, traveler.</title>
+  <defs><clipPath id="letters"><rect width="350" height="58"><animate attributeName="width" values="0;14;28;42;56;70;84;98;112;126;140;154;168;182;196;210;224;238;252;266;280;294;308;322;336;350;350;350;350;350;350;350;350;350;350;350;350;350;350;350;350;350" calcMode="discrete" dur="6s" repeatCount="indefinite"/></rect></clipPath></defs>
+  <rect width="896" height="58" rx="4" fill="#20233a"/>
+  <path d="M20 22l8 7-8 7z" fill="#ffb668"/>
+  <g transform="translate(43 0)" clip-path="url(#letters)"><text y="37" font-family="monospace" font-size="23" textLength="350" lengthAdjust="spacingAndGlyphs" fill="#ffe2bd">Welcome aboard, traveler.</text></g>
+</svg>
